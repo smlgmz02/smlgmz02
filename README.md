@@ -5,15 +5,24 @@
 Soy un estudiante de Tecnología en Análisis y Desarrollo de Software apasionado por crear soluciones innovadoras y eficientes. Mi enfoque se centra en el desarrollo de aplicaciones robustas utilizando las mejores prácticas de la industria.
 
 🎓 Estudiante de Tecnología en Análisis y Desarrollo de Software (En curso)
+
 💻 Especializado en: Java, Python y C#
+
 🧠 Método de aprendizaje avanzado con capacidad de adaptación rápida
+
 🌍 Nivel de inglés: C1 Advanced
+
 🔍 Enfoque: Clean Code, Design Patterns y Arquitecturas Escalables
+
 📈 Siempre aprendiendo nuevas tecnologías y metodologías
+
+=================================================================
+
 
 
 
 🛠️ Stack Tecnológico
+
 
 💻 Lenguajes de Programación
 <div align="center">
@@ -37,11 +46,17 @@ Soy un estudiante de Tecnología en Análisis y Desarrollo de Software apasionad
 </div>
 
 
+
+
 🌟 Proyectos Destacados
+
 🎮 Mi Primer Proyecto - Tic Tac Toe
 Python + Algoritmos
 
 Juego de consola Tres en Raya contra IA
+
 Implementación de lógica de juego y algoritmo bot
+
 Mi introducción al mundo de la programación
+
 "Todo gran programador empezó con algo simple" ✨
